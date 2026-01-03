@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data / model
+data/model.h5
+
+# IDEs
+.vscode/
+.idea/
