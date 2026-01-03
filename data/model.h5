@@ -1,0 +1,5 @@
+ Placeholder for the trained model.
+- Users generate it by running `train_model.py`.  
+- Do **not upload the large model** directly to GitHub; `.gitignore` ensures that.  
+
+---
